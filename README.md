@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Broklam
 - 👀 I’m interested in ML and Data Science
-- 🌱 I’m currently learning these two
+- 🌱 I’m currently learning these two 
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me ivfv@yahoo.com
 
